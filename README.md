@@ -39,4 +39,32 @@ The dataset simulates a real multi-function corporate environment:
 - Legal  
 - Operations  
 
+---
+
+## 📁 Project Structure
+data/ # OPEX dataset (CSV)
+models/ # Python financial models
+scripts/ # variance + forecast engines
+dashboards/ # Power BI dashboard
+README.md # project documentation
+
+
+---
+
+## 🛠 Tools & Technologies
+- Python (Pandas, NumPy)
+- Power BI
+- Excel
+- GitHub
+- FP&A variance methodology
+
+---
+
+## 🚀 Future Enhancements
+- Rolling Forecast model
+- Machine Learning forecast (Prophet)
+- YTD variance dashboard
+- Cost allocation engine
+
+
 
