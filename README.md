@@ -1,6 +1,6 @@
 # Corporate FP&A — Cost Center OPEX Model
 
-This project replicates a real-world Corporate FP&A workflow for managing cost center OPEX budgets, forecasts, and variance analysis. It is designed based on processes from large matrix organizations such as IBM, Roche, and Fortune 500 finance teams.
+This project replicates a real-world Corporate FP&A workflow for managing cost center OPEX budgets, forecasts, and variance analysis. It is designed based on processes from large matrix organizations such as IBM, Roche, and Fortune 500 finance teams.（Public Data Set）
 
 ---
 
